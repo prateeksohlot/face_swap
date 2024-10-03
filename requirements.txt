@@ -1,0 +1,7 @@
+pandas
+numpy
+insightface
+opencv-python
+onnxruntime
+onnxruntime-gpu
+jupyter
